@@ -1,0 +1,9 @@
+# PRINTER JVC — robots.txt
+# Permite a indexação de todo o site pelos motores de busca.
+# IMPORTANTE: quando o site tiver um domínio definitivo, atualize
+# a linha "Sitemap:" abaixo com o endereço real.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://www.printerjvc.co.mz/sitemap.xml

@@ -1,0 +1,17 @@
+{
+  "name": "PRINTER JVC",
+  "short_name": "PRINTER JVC",
+  "description": "Impressão que dá vida às suas ideias — cópias, digitação, design gráfico e estampagem/personalização em Alua.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#003B7A",
+  "lang": "pt-MZ",
+  "icons": [
+    {
+      "src": "/assets/logo/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
